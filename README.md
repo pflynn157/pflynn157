@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello everyone!
+
+Welcome to my Github profile! This contains my work and school-related projects. Please check out my other links for personal projects:
+* [https://sr.ht/~pflynn157/](https://sr.ht/~pflynn157/) -> All my personal programming projects
+* [https://patrickflynn.xyz](https://patrickflynn.xyz) -> My personal website
+* [https://unsplash.com/@pflynn157](https://unsplash.com/@pflynn157) -> Photography
+* [https://www.linkedin.com/in/pflynn157/](https://www.linkedin.com/in/pflynn157/) -> LinkedIn
 
 <!--
 **pflynn157/pflynn157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
